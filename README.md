@@ -20,7 +20,7 @@
 <code><img height="30" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699597-icon-89-document-file-sql-256.png"></code>
 </p>
 <p align="left">
- CAJO DESEJE ENTRAR EM CONTATO PARA TROCAR EXPERIÊNCIA OU COLABORAR COM ALGUM PROJETO, SEGUE ABAIXO AS FORMAS DE CONTATOS : 
+ CASO DESEJE ENTRAR EM CONTATO PARA TROCAR EXPERIÊNCIA OU COLABORAR COM ALGUM PROJETO, SEGUE ABAIXO AS FORMAS DE CONTATOS : 
  </p>  
 <p align="left">
  <a href="https://www.linkedin.com/in/mardeson-souza-lemos-69a4a81a7" alt="Linkedin">
